@@ -12,7 +12,6 @@ export default function handler(req, res) {
         trim="trim-silence"
         transcribeCallback="https://hook.eu2.make.com/79ppx95mkqjlb7g7h47vok04rq0m4uhd"
       />
-      <Hangup/>
     </Response>
   `);
 }
