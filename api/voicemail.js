@@ -4,6 +4,7 @@ export default function handler(req, res) {
     <Response>
       <Play>https://lobenthalansage-7033.twil.io/Bandansage-Lobenthal.mp3</Play>
       <Record 
+        action=""
         maxLength="180"
         timeout="5"
         transcribe="true"
